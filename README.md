@@ -26,7 +26,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=tyzrex.tyzrex&left_text=Well Wishers"  />
+  ![](https://komarev.com/ghpvc/?username=tyzrex)
 </div>
 
 ###
